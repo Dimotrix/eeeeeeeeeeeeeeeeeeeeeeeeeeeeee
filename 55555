@@ -6,5 +6,5 @@ getgenv().MythicalCostCap = 300000
 getgenv().TweenSpeed = 70
 getgenv().code = "k4z1TOgSZR"
 getgenv().WebHook = "https://discord.com/api/webhooks/1282119500061347953/PZkWQDIxZn9RBhmQeQU3ixqJ1SoR78VWZ5uFjOAk6ZyztACUSSQ3UTT1vrIKIPB_eWCX"
-script_key="lksaNMZmOseSLTPwYaQevqGoHwUbFSmy";
+script_key="DulvaIOmoLDcFsEtQFYKhKErGqwebavA";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
